@@ -1,8 +1,9 @@
 package com.narendra.java.trees.firstsimpletree;
 
 public class Node {
-    int key;
-    Node left, right;
+    public int key;
+    public Node left;
+    public Node right;
 
     public Node(int item){
         key = item;
