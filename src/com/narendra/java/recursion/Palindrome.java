@@ -11,7 +11,8 @@ public class Palindrome {
     }
 
     public static void main(String[] args) {
-        String input = "NarendrardneraN";
+        //String input = "NarendrardneraN";
+        String input = "racecar";
         System.out.println(isPalindrome(input));
     }
 }
