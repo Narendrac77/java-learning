@@ -12,7 +12,7 @@ public class PrintNumbers {
 
         printNumbers(n - 1);
 
-        System.out.println(n);
+        System.out.println(n); //need to more focus on this step
 
        // printNumbers(n + 1);
     }
